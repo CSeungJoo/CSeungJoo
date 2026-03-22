@@ -27,6 +27,11 @@
  
   <br>
 
+  #### 📝 Blog 📝
+  <a href="https://velog.io/@seungjoo13579" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  </a>
+
   ### ✨ **Stats & Wakatime** ✨
   <img src="https://wakatime.com/badge/user/6b36cb35-5085-4226-981f-2fe223fa011f.svg"><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CSeungJoo&layout=compact&theme=dark"><br>
