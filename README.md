@@ -29,7 +29,7 @@
 
   #### 📝 Blog 📝
   <a href="https://velog.io/@seungjoo13579" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
   </a>
 
   ### ✨ **Stats & Wakatime** ✨
